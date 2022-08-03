@@ -1,0 +1,12 @@
+{
+	"name": "Super AntiBot",
+	"uri": "https://github.com/Freqnsy/qa_super_antibot/",
+	"description": "Registration with invitation code",
+	"version": "1.0",
+	"date": "2022-01-10",
+	"author": "Freqnsy",
+	"author_uri": "https://github.com/Freqnsy/",
+	"license": "GPLv2",
+	"min_q2a": "1.7",
+	"load_order": "after_db_init"
+}
